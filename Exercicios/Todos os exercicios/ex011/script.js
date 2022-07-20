@@ -23,4 +23,13 @@ if (scoreA) {
     scoreFinal = "Nota invalida"
 }
 
-console.log(scoreFinal);
+function getScore(score) {
+}
+
+    console.log(getScore(200))
+    console.log(getScore(75))
+    console.log(getScore(-1))
+    console.log(getScore(60))
+    console.log(getScore(40))
+    console.log(getScore(20)) 
+
